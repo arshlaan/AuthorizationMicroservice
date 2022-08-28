@@ -1,0 +1,1 @@
+insert into userdetails(id,username,password) values(1, 'root','$2a$10$5bAuTPrBrAmhV.IkP4hlUOyxhnF0Q5WSfrzNZ4yjABM/A1KlaLzBu');
